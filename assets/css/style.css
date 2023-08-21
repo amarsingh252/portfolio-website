@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.background-image {
+    background: linear-gradient(to bottom right, rgb(212, 237, 237), rgb(86, 86, 181))
+}
+
+.homecontent {
+    min-height: 85vh;
+}
+
+.homecontent img {
+    height: 380px;
+    padding-top: 100px;
+}
+
+.homecontent div {
+    padding-top: 80px;
+}
+.contact{
+    min-height: 100vh;
+}
+
+/* -----------------about------------------- */
+
+.aboutcont {
+    background: linear-gradient(to bottom right, rgb(212, 237, 237), rgb(83, 83, 191));
+    min-height: 95vh;
+}
+
+.aboutcont h1 {
+    padding-top: 80px;
+}
+
+.resume {
+    min-height: 80vh;
+}
+
